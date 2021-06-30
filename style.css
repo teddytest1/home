@@ -1,4 +1,7 @@
-body{position:absolute;top:0px;
+body{
+  position:absolute;
+  top:0px;
+  background-image:url(https://teddytest1.github.io/img1/%E8%83%8C%E6%99%AF.png);
 }
 body::-webkit-scrollbar {
     display: none;
@@ -10,7 +13,7 @@ body::-webkit-scrollbar {
   padding-left: 30px;
   background-color:#d69478;
   color:#411d1d;
-  font-family:微軟正黑體;
+  font-family:王漢宗特黑體;
   font-weight:bold;
   font-size:35px;
   
@@ -18,6 +21,7 @@ body::-webkit-scrollbar {
 .button:hover{
   background-color: #411d1d;
   color:white;
+  cursor:url('https://teddytest1.github.io/img1/0001.png'),auto;
 }
 .nav_ul{
   background-color:#d69478;
@@ -29,7 +33,7 @@ body::-webkit-scrollbar {
 }
 .g1{
   
- width: 100%;
+ width: 1700px;
 height: 50px;
 background: #a6b3a7;
 }
@@ -53,27 +57,30 @@ li::after {
 }
 #P2{
     position:absolute;
-    top:353px;
+    top:190px;
     left:0px;
     z-index:0;
 }
 #P3{
     position:absolute;
     top:580px;
-    left:820px;
+    left:980px;
     z-index:1;
 }
 .font1{
   font-size:20px;
-  font-family:標楷體;
+  font-family:Montserrat;
+  font-weight:bold
 }
 .font2{
   font-size:100px;
-  font-family:標楷體;
+  font-family:圓體;
+  
 }
 .font3{
   font-size:35px;
-  font-family:標楷體;
+  font-family:Montserra;
+  font-weight:bold
 }
 
 </style>
